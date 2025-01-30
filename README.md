@@ -2,9 +2,26 @@
 
 ## Junior Skills 2022
 
-### 1. forduló
+<details>
+  
+  **<summary>Elődöntő</summary>**
 
-[Az 1. forduló tesztjei](js2022-s17-hu/js2022-s17-hu-r1/js2022-s17-hu-r1-tests.pdf)
+  - [Az elődöntő tesztjei](js2022-s17-hu/js2022-s17-hu-r1/js2022-s17-hu-r1-tests.pdf)
+</details>
+<details>
+
+  **<summary>Középdöntő</summary>**   
+  
+  - [A középdöntő tesztjei](js2022-s17-hu/js2022-s17-hu-r2/js2022-s17-hu-r2-tests.pdf)
+  - [A középdöntő gyakorlati feladata](js2022-s17-hu/js2022-s17-hu-r2/js2022-s17-hu-r2-testproject.pdf)
+  - [A középdöntő gyakorlati feladatához tartozó fájlok](js2022-s17-hu/js2022-s17-hu-r2/feladat_holegballon.zip)
+</details>
+<details>
+  
+  **<summary>Döntő</summary>**
+
+  - [A döntő gyakorlati feladata](js2022-s17-hu/js2022-s17-hu-r1/js2022-s17-hu-r1-tests.pdf)
+</details>
 
 ## Junior Skills 2023
 
