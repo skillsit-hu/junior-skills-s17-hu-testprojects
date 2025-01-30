@@ -4,7 +4,7 @@
 
 ### 1. forduló
 
-[Az 1. forduló tesztjei]()
+[Az 1. forduló tesztjei](js2022-s17-hu/js2022-s17-hu-r1/js2022-s17-hu-r1-tests.pdf)
 
 ## Junior Skills 2023
 
