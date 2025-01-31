@@ -1,4 +1,4 @@
-![Junior Skills](assets/juniorskills-logo-tr.png)
+![Junior Skills](assets/juniorskills-logo-tr-sm.png)
 
 # A Junior Skills versenyek feladatai - webfejlesztés
 
