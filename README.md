@@ -1,3 +1,5 @@
+![Junior Skills](assets/juniorskills-logo-tr.png)
+
 # A Junior Skills versenyek feladatai - webfejlesztés
 
 ## Junior Skills 2022
@@ -79,5 +81,5 @@
 
 </details>
 
-![Skills IT - WorldSkills Hungary](assets/wshu-skillsit-bkik.png)
+![Skills IT - WorldSkills Hungary - BKIK](assets/wshu-skillsit-bkik.png)
 ![Skills IT](assets/skillsit-members-2025.png)
