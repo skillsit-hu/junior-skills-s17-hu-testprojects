@@ -79,5 +79,5 @@
 
 </details>
 
-![Skills IT - WorldSkills Hungary](https://github.com/es2025-s17-hu/es2025-s17-hu-r3-tp/blob/main/assets/images/wshu-skillsit-sm.png)
-![Skills IT](https://github.com/es2025-s17-hu/es2025-s17-hu-r3-tp/blob/main/assets/images/skillsit-members.png)
+![Skills IT - WorldSkills Hungary](assets/wshu-skillsit-bkik.png)
+![Skills IT](assets/skillsit-members-2025.png)
