@@ -63,14 +63,14 @@
 
 <details>
 
-<details>
-
 **<summary>Középdöntő</summary>**
 
 - [A középdöntő gyakorlati feladata](js2024-s17-hu/js2024-s17-hu-r2/js2024-s17-hu-r2-testproject.pdf)
 - [A középdöntő gyakorlati feladatához tartozó fájlok](js2024-s17-hu/js2024-s17-hu-r2/js2024-s17-hu-r2-testporject-assets.zip)
 
 </details>
+
+<details>
 
 **<summary>Döntő</summary>**
 
