@@ -41,6 +41,15 @@
 
 </details>
 
+<details>
+
+**<summary>Döntő</summary>**
+
+- [A döntő gyakorlati feladata](js2023-s17-hu/js2023-s17-hu-r3/js2023-s17-hu-r3-testproject.pdf)
+- [A döntő gyakorlati feladatához tartozó fájlok](js2023-s17-hu/js2023-s17-hu-r3/js2023-s17-hu-r3-assets.zip)
+
+</details>
+
 ## Junior Skills 2024
 
 <details>
