@@ -14,7 +14,7 @@
 
 - [A középdöntő tesztjei](js2022-s17-hu/js2022-s17-hu-r2/js2022-s17-hu-r2-tests.pdf)
 - [A középdöntő gyakorlati feladata](js2022-s17-hu/js2022-s17-hu-r2/js2022-s17-hu-r2-testproject.pdf)
-- [A középdöntő gyakorlati feladatához tartozó fájlok](js2022-s17-hu/js2022-s17-hu-r2/js2022-s17-hu-r2-testproject-assets.zip)
+- [A középdöntő gyakorlati feladatához tartozó fájlok](js2022-s17-hu/js2022-s17-hu-r2/js2022-s17-hu-r2-testporject-assets.zip)
 </details>
 <details>
 
