@@ -62,6 +62,12 @@
 
 - [Az elődöntő tesztjei](js2024-s17-hu/js2024-s17-hu-r1/js2024-s17-hu-r1-tests.pdf)
 </details>
+<details>
+  
+  **<summary>Megismételt Elődöntő</summary>**
+
+- [A megismételt elődöntő tesztjei](js2024-s17-hu/js2024-s17-hu-r1-repeated/js2024-s17-hu-r1-repeated-tests.pdf)
+</details>
 
 <details>
 
